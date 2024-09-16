@@ -41,16 +41,16 @@
     <!-- Custom-->
     <link rel="stylesheet" href="assets/css/main.css">
 
-    
-<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z1T5J1FJNS"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
 
-	  gtag('config', 'G-Z1T5J1FJNS');
-	</script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z1T5J1FJNS"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Z1T5J1FJNS');
+    </script>
 </head>
 <!--[if IE 7]>
 <body class="ie7 lt-ie8 lt-ie9 lt-ie10"><![endif]-->
@@ -66,7 +66,7 @@
             <div class="left">
                 <div class="btn-group ps-dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"
                                                       aria-haspopup="true" aria-expanded="false">Ру<i
-                        class="fa fa-angle-down"></i></a>
+                            class="fa fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Русский</a></li>
                         <li><a href="#">O'zbek</a></li>
@@ -82,27 +82,27 @@
                     <li><a href="#"><i class="exist-user"></i></a></li>
                     <li class="header__cart"><a class="ps-shopping" href="#" data-toggle="dropdown"
                                                 aria-haspopup="true" aria-expanded="false" id="shopping-cart"><i
-                            class="exist-minicart"></i><span><i>0</i></span></a>
+                                class="exist-minicart"></i><span><i>0</i></span></a>
                         <ul class="dropdown-menu" aria-labelledby="shopping-cart" id="shopping-list">
                             <li><span class="ps-product--shopping-cart"><a class="ps-product__thumbnail"
                                                                            href="product-detail.html"><img
-                                    src="assets/images/cart/1.jpg"
-                                    alt=""></a><span class="ps-product__content"><a
-                                    class="ps-product__title" href="#">Диван Эндор</a><span
-                                    class="ps-product__quantity">1 x <span>
+                                            src="assets/images/cart/1.jpg"
+                                            alt=""></a><span class="ps-product__content"><a
+                                            class="ps-product__title" href="#">Диван Эндор</a><span
+                                            class="ps-product__quantity">1 x <span>
                                                     5 000 000</span></span>
                                         </span><a class="ps-product__remove" href="#"><i
-                                    class="fa fa-trash"></i></a></span>
+                                            class="fa fa-trash"></i></a></span>
                             </li>
                             <li><span class="ps-product--shopping-cart"><a class="ps-product__thumbnail"
                                                                            href="product-detail.html"><img
-                                    src="assets/images/cart/2.jpg"
-                                    alt=""></a><span class="ps-product__content"><a
-                                    class="ps-product__title" href="#">Диван Lema Cloud</a><span
-                                    class="ps-product__quantity">1 x <span>
+                                            src="assets/images/cart/2.jpg"
+                                            alt=""></a><span class="ps-product__content"><a
+                                            class="ps-product__title" href="#">Диван Lema Cloud</a><span
+                                            class="ps-product__quantity">1 x <span>
                                                     5 000 000</span></span>
                                         </span><a class="ps-product__remove" href="#"><i
-                                    class="fa fa-trash"></i></a></span>
+                                            class="fa fa-trash"></i></a></span>
                             </li>
                             <li class="total">
                                 <p>Всего: <span> 10 млн. сум</span></p><a class="ps-btn" href="#">В корзину</a>
@@ -281,7 +281,7 @@
                 <div class="grid-item large">
                     <div class="grid-item__content-wrapper">
                         <div class="ps-collection--5"><a href="#"><img
-                                src="assets/images/collection/home-3/collection-2.jpg" alt=""></a></div>
+                                    src="assets/images/collection/home-3/collection-2.jpg" alt=""></a></div>
                     </div>
                 </div>
                 <div class="grid-item">
@@ -327,14 +327,14 @@
                                 <div class="ps-badge ps-badge--hot"><span>hot</span></div>
                                 <div class="ps-badge ps-badge--sale-off ps-badge--2nd"><span>-25%</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-1.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-1.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -349,12 +349,12 @@
                             <div class="ps-product__thumbnail"><img src="assets/images/product/home-2/product-2.jpg"
                                                                     alt=""><a class="ps-btn ps-product__shopping"
                                                                               href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -368,14 +368,14 @@
                             <div class="ps-product__thumbnail">
                                 <div class="ps-badge ps-badge--new"><span>New</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-3.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-3.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -391,14 +391,14 @@
                                 <div class="ps-badge ps-badge--new"><span>New</span></div>
                                 <div class="ps-badge ps-badge--sale-off ps-badge--2nd"><span>-25%</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-4.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-4.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -413,12 +413,12 @@
                             <div class="ps-product__thumbnail"><img src="assets/images/product/home-2/product-5.jpg"
                                                                     alt=""><a class="ps-btn ps-product__shopping"
                                                                               href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -433,12 +433,12 @@
                             <div class="ps-product__thumbnail"><img src="assets/images/product/home-2/product-6.jpg"
                                                                     alt=""><a class="ps-btn ps-product__shopping"
                                                                               href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -458,14 +458,14 @@
                                 <div class="ps-badge ps-badge--hot"><span>hot</span></div>
                                 <div class="ps-badge ps-badge--sale-off ps-badge--2nd"><span>-25%</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-1.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-1.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -480,12 +480,12 @@
                             <div class="ps-product__thumbnail"><img src="assets/images/product/home-2/product-2.jpg"
                                                                     alt=""><a class="ps-btn ps-product__shopping"
                                                                               href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -499,14 +499,14 @@
                             <div class="ps-product__thumbnail">
                                 <div class="ps-badge ps-badge--new"><span>New</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-3.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-3.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -522,14 +522,14 @@
                                 <div class="ps-badge ps-badge--new"><span>New</span></div>
                                 <div class="ps-badge ps-badge--sale-off ps-badge--2nd"><span>-25%</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-4.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-4.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -550,14 +550,14 @@
                                 <div class="ps-badge ps-badge--hot"><span>hot</span></div>
                                 <div class="ps-badge ps-badge--sale-off ps-badge--2nd"><span>-25%</span></div>
                                 <img
-                                        src="assets/images/product/home-2/product-1.jpg" alt=""><a
+                                    src="assets/images/product/home-2/product-1.jpg" alt=""><a
                                     class="ps-btn ps-product__shopping" href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -572,12 +572,12 @@
                             <div class="ps-product__thumbnail"><img src="assets/images/product/home-2/product-2.jpg"
                                                                     alt=""><a class="ps-btn ps-product__shopping"
                                                                               href="#"><i
-                                    class="exist-minicart"></i>Купить</a>
+                                        class="exist-minicart"></i>Купить</a>
                                 <ul class="ps-product__actions">
                                     <li><a href="#" data-label="В избранное"><i class="exist-heart"></i></a></li>
                                     <li><a href="#" data-label="Сравнить"><i class="exist-compare"></i></a></li>
                                     <li><a class="ps-modal-trigger" href="#quick-view" data-label="Посмотреть"><i
-                                            class="exist-quickview"></i></a></li>
+                                                class="exist-quickview"></i></a></li>
                                 </ul>
                             </div>
                             <div class="ps-product__content"><a class="ps-product__title"
@@ -659,11 +659,11 @@
             <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 ">
                 <ul class="ps-footer__social">
                     <li><a href="https://www.facebook.com/Mysofa.uz/" target="_blank"><i
-                            class="fa fa-facebook"></i>facebook</a></li>
+                                class="fa fa-facebook"></i>facebook</a></li>
                     <li><a href="https://t.me/mysofa_uz" target="_blank"><i class="fa fa-telegram"></i>telegram</a>
                     </li>
                     <li><a href="https://www.instagram.com/my_sofa.uz/" target="_blank"><i
-                            class="fa fa-instagram"></i>instagram</a></li>
+                                class="fa fa-instagram"></i>instagram</a></li>
                 </ul>
             </div>
         </div>
@@ -680,16 +680,16 @@
                             <div class="ps-product__large">
                                 <div class="ps-product__video"><a class="video-popup"
                                                                   href="https://www.youtube.com/watch?v=4ZighUyrsRU"><i
-                                        class="exist-play"></i></a></div>
+                                            class="exist-play"></i></a></div>
                                 <div class="ps-product__images-large">
                                     <div class="item"><img src="assets/images/product-creative-content/main-1.jpg"
                                                            alt=""><a class="ps-product__zoom single-image-popup"
                                                                      href="assets/images/product-creative-content/main-1.jpg"><i
-                                            class="exist-zoom"></i></a></div>
+                                                class="exist-zoom"></i></a></div>
                                     <div class="item"><img src="assets/images/product-creative-content/main-2.jpg"
                                                            alt=""><a class="ps-product__zoom single-image-popup"
                                                                      href="assets/images/product-creative-content/main-2.jpg"><i
-                                            class="exist-zoom"></i></a></div>
+                                                class="exist-zoom"></i></a></div>
                                 </div>
                             </div>
                             <div class="ps-product__nav">
@@ -772,9 +772,9 @@
                             </div>
                             <div class="ps-product__divider"></div>
                             <p class="ps-product__sharing">Поделиться:<a href="#"><i
-                                    class="fa fa-facebook"></i></a><a href="#"><i
-                                    class="fa fa-twitter"></i></a><a href="#"><i
-                                    class="fa fa-instagram"></i></a></p>
+                                        class="fa fa-facebook"></i></a><a href="#"><i
+                                        class="fa fa-twitter"></i></a><a href="#"><i
+                                        class="fa fa-instagram"></i></a></p>
                         </div>
                     </div>
                 </div>
