@@ -1,18 +1,11 @@
 <!DOCTYPE html>
-<!--[if IE 7]>
-<html class="ie ie7"><![endif]-->
-<!--[if IE 8]>
-<html class="ie ie8"><![endif]-->
-<!--[if IE 9]>
-<html class="ie ie9"><![endif]-->
-<html lang="ru">
-
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <link href="apple-touch-icon.png" rel="apple-touch-icon">
     <link href="favicon.png" rel="icon">
     <meta name="author" content="Shoxrux Soleyev">
@@ -40,8 +33,6 @@
     <link rel="stylesheet" href="assets/css/sliders/slider-3.css">
     <!-- Custom-->
     <link rel="stylesheet" href="assets/css/main.css">
-
-
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z1T5J1FJNS"></script>
     <script>
@@ -52,13 +43,6 @@
         gtag('config', 'G-Z1T5J1FJNS');
     </script>
 </head>
-<!--[if IE 7]>
-<body class="ie7 lt-ie8 lt-ie9 lt-ie10"><![endif]-->
-<!--[if IE 8]>
-<body class="ie8 lt-ie9 lt-ie10"><![endif]-->
-<!--[if IE 9]>
-<body class="ie9 lt-ie10"><![endif]-->
-
 <body class="ps-loading">
 <header class="header header--3" data-sticky="true">
     <div class="header__top">
