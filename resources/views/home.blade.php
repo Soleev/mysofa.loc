@@ -10,7 +10,8 @@
     <link href="favicon.png" rel="icon">
     <meta name="author" content="Shoxrux Soleyev">
     <meta name="description" content="Диваны MySofa">
-    <title>MySofa</title>
+    <title>MySofa Компания по производству мягкой мебели премиум сегмента по вашим индивидуальным проектам</title>
+    <meta name="description" content="Наша команда изготовит на заказ самую качественную мебель на дорогом сырье, которая будет радовать вас и ваших близких.">
     <link rel="canonical" href="https://mysofa.uz/"/>
     <!-- Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700%7CDroid+Serif:400,700"
