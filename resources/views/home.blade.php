@@ -93,12 +93,12 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-21" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0"
                         data-hideslideonmobile="off" data-easein="Power0.easeInOut" data-easeout="default"
-                        data-masterspeed="default" data-thumb="assets/images/home-slider/home-3/home-3-3-100x50.jpg"
+                        data-masterspeed="default" data-thumb="assets/images/home-slider/home-3/home-3-4-100x50.jpg"
                         data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2=""
                         data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                         data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="assets/images/home-slider/home-3/home-3-3.jpg" alt="" title="home-3-3" width="1720"
+                        <img src="assets/images/home-slider/home-3/home-3-4.jpg" alt="" title="home-3-3" width="1720"
                              height="740" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                              class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->

@@ -105,7 +105,7 @@
         <nav class="navigation">
             <div class="ps-container-fluid">
                 <ul class="menu">
-                    <li><a href="#">Каталог</a></li>
+                    <li><a href="shop-category">Каталог</a></li>
                     <li><a href="about">О нас</a></li>
                     <li><a href="contacts">Контакты</a></li>
                 </ul>
@@ -128,8 +128,8 @@
                         <li><a href="#">Правила</a></li>
                         <li><a href="#">Термины</a></li>
                         <li><a href="#">Блог</a></li>
-                        <li><a href="#">FAQs</a></li>
-                        <li><a href="#">Поддержка</a></li>
+                        <li><a href="faqs">FAQs</a></li>
+                        <li><a href="about-me">Обо мне</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 ">

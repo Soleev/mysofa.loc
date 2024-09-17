@@ -70,7 +70,7 @@
     style="background: url(&quot;assets/images/background/about-testimonial.jpg&quot;);">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-12 col-md-offset-6">
+            <div class="col-md-6 col-sm-12 offset-md-6">
                 <div class="ps-section__header">
                     <h3 class="ps-heading" style="color: white;">Наша команда</h3>
                     <p class="bg-primary">Команда MySofa — это сплочённый коллектив профессионалов с многолетним опытом в производстве мебели. Мы гордимся тем, что вносим вклад в создание уютных и стильных интерьеров для наших клиентов.</p>
