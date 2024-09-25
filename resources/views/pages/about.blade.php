@@ -9,9 +9,8 @@
         <h2 class="ps-hero__heading">О нас</h2>
         <div class="ps-breadcrumb">
             <ol class="breadcrumb">
-                <li><a href="index.html">Главная</a></li>
-                <li><a href="index.html">Страницы</a></li>
-                <li class="active">Мы</li>
+                <li><a href="/">Главная </a></li>
+                <li class="active"> Мы</li>
             </ol>
         </div>
     </div>

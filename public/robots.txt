@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: hhttps://mysofa.uz/sitemap.xml
+Sitemap: https://mysofa.uz/sitemap.xml
